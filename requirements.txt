@@ -1,0 +1,7 @@
+openai
+requests
+Pillow
+transformers
+langdetect
+pytesseract
+tesseract
